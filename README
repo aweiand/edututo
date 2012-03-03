@@ -1,0 +1,9 @@
+Este sistema é voltado para o ensino a distância.
+Ele foi desenvolvido inicialmente para atender uma
+necessidade de uma cadeira da faculdade voltada 
+para educação a distância, ele está construído em
+PHP com Javascript e banco de dados MySQL.
+Estou publicando hoje 3-3-2012, a primeira versão
+do aplicativo, porém já estou trabalhando na segunda
+versão do sistema, com personalização de temas, efeitos
+em ajax e mais alguns...
